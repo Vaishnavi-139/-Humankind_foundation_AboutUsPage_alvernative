@@ -1,0 +1,186 @@
+        .logo
+            {
+            width: 57%;
+            }
+            .logo img
+            {
+                height: 32px;
+            }
+        .joinButton img 
+            {
+            height:30px; 
+            }
+        .menuBar img 
+            {
+            height: 30px;
+            }
+    .header
+        {
+        display: flex;
+        height: 33px;
+        justify-content: space-between;
+        padding-top: 1px;
+        padding-bottom: 2px;
+        padding-left: 0px;
+        padding-right: 1px;
+        background: white;
+        }
+    nav
+        {
+        display: flex;
+        justify-content: space-between;
+        background-color:#8aae46 ;
+        }
+        nav > div> a
+            {
+            color: rgb(195, 234, 195);
+            text-decoration: none;
+            } 
+.sticky
+    {
+    position: sticky ;
+    top: 0px;
+    }
+            .leftAboutUs img{
+                    width: 20%;
+                }
+            .leftAboutUsText
+            {
+                padding-left: 4%;
+                width: 84%;
+            }
+        .leftAboutUs{
+                width: 53%;
+            }
+        .rightAboutUs {
+                width:47%;
+            }
+            .rightAboutUs img{
+                    width: 86%;
+                }
+    .main_about
+        {
+        display: flex;
+        justify-content: space-between;
+        }
+.nonSticky
+    {
+    background-color: #f6f2f1;
+    }
+    .what_we_do
+        {
+            padding-top: 0px;
+        }
+    .upWhatWeDo
+        {
+            display:flex;
+            justify-content: space-between;
+        }
+        .rightWhatWeDo
+            {
+                width: 63%;
+            }
+            .rightWhatWeDo>p
+                {
+                    width: 93%;
+                }
+            .leftWhatWeDo
+                {
+                    width: 32%;
+                    padding-top: 18%;
+                }
+                .boxWhatWeDo
+                {
+                    border:thick #174e8a solid;
+                    border-radius: 12%;
+                }
+                .boxWhatWeDo p
+                    {
+                        font-style:  italic;
+                        line-height-step: 1.1em;
+                        font-size: .9em;
+                        font-weight: bold;
+                        color: #174e8a;
+                        width: 95%;
+                        text-align: center;
+                        border: transparent solid;
+                    }
+            
+            .imgSection{
+                display: flex;
+                justify-content: space-between;
+            }
+            .imgLeft{
+                width:48%;
+            }
+            .imgLeft img{
+                width:100%;
+            }
+            .imgRight{
+                width:48%;
+            }
+            .imgRight img{
+                width:100%;
+            }
+            .WhoMakesItHappenTitle{
+                width: 60%;
+                line-height: 2em;
+            }
+.WhoMakesItHappen{
+    display: flex;
+    justify-content: space-between;
+}
+
+    .textWhoMakesItHappen
+    {
+        width: 63%;
+    }
+    .textWhoMakesItHappen > p
+        {
+            width: 93%;
+        }
+.our_mission
+                {
+                    width: 32%;
+                    padding-top: 18%;
+                }
+                .boxOurMission
+                {
+                    border:thick #174e8a solid;
+                    border-radius: 12%;
+                }
+                .boxOurMission p
+                    {
+                        font-style:  italic;
+                        line-height-step: 1.1em;
+                        font-size: .9em;
+                        font-weight: bold;
+                        color: #174e8a;
+                        width: 93%;
+                        text-align: center;
+                        border: transparent solid;
+                    }
+            
+
+
+
+
+
+
+
+
+span{
+    font-weight: bold;
+}
+h1{
+font-size: 3.4em;
+}
+h2{
+    font-size: 1.7em;
+}
+.container 
+    {
+    font-family: sans-serif;
+    font-size: .75em;
+    line-height: 1.3em;
+    }
